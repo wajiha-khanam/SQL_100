@@ -8,7 +8,7 @@ Each day features a new `.sql` file with a real-world-inspired problem to build 
 - Upload 1 SQL file per day for 100 days  
 - Practice real-world SQL queries using datasets or business scenarios    
 - Stay consistent and level up SQL skills 
-
+ 
 ## 📂 Structure
 
 ```
