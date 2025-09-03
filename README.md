@@ -10,7 +10,7 @@ Each day features a new `.sql` file with a real-world-inspired problem to build 
 - Stay consistent and level up SQL skills 
  
 ## 📂 Structure
-
+  
 ```
 📁 100-days-of-sql/
 ├── Day01.sql
